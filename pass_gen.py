@@ -1,6 +1,7 @@
 """
     Date: 11/11/2022
     File: pass_gen.py
+    Author: Rajjya Rohan Paudyal
     Description: Testing out a new idea of creating my own password generator
 """
 import random
